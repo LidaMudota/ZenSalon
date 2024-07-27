@@ -1,0 +1,15 @@
+config.php
+.idea/
+.vscode/
+*.log
+*.env
+uploads/
+node_modules/
+vendor/
+*.cache
+*.temp
+composer.lock
+composer.phar
+.DS_Store
+Thumbs.db
+*.bak
